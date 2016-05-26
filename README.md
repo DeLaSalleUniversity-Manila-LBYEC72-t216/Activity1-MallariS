@@ -24,4 +24,4 @@ int main()
 	
 }
 ```
-![](capture1)
+![](Capture1)
