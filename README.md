@@ -24,4 +24,4 @@ int main()
 	
 }
 ```
-![](Capture1.png)
+![](Capture1.PNG)
